@@ -775,10 +775,6 @@
           }
         },
         "logoblauw": {
-          "basis": {
-            "value": "#154273",
-            "type": "color"
-          },
           "tint-1": {
             "value": "#4F7196",
             "type": "color"
@@ -1282,6 +1278,16 @@
           "050": {
             "value": "#F8FAFC",
             "type": "color"
+          }
+        }
+      },
+      "woo": {
+        "color": {
+          "logoblauw": {
+            "basis": {
+              "value": "#154273",
+              "type": "color"
+            }
           }
         }
       },
